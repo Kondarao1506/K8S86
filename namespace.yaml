@@ -1,0 +1,15 @@
+# apiVersion: v1
+# kind: Namespace
+# metadata:
+#    name: practice
+#    labels:
+#     environment: dev
+#     projrct: Aviva
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: practice
+  labels:
+    environment: development
+    project: Aviva
